@@ -1,0 +1,10 @@
+Git Basics - Learning Notes
+===========================
+
+Three areas in Git:
+1. Working Directory
+2. Staging Area
+3. Repository History
+
+My notes:
+- (Add your first note here during Module 01)
